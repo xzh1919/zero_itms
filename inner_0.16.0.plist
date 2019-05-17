@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.igg.ios.demo6</string>
+				<string>com.igg.ios.braveconquest</string>
 				<key>bundle-version</key>
 				<string>0.16.0</string>
 				<key>kind</key>
