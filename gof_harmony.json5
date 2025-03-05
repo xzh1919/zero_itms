@@ -1,0 +1,28 @@
+{
+  "app": {
+    "bundleName": "com.example.engine.test",
+    "bundleType": "app",
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "label": "EngineTest",
+    "deployDomain": "应用、图标以及描述文件部署域名",
+    "icons": {
+      "normal": "标准图标下载链接",
+      "large": "大图标下载链接"
+    },
+    "minAPIVersion": "5.0.0(12)",
+    "targetAPIVersion": "5.0.0(12)",
+    "modules": [
+      {
+        "name": "module1",
+        "type": "entry",
+        "deviceTypes": [
+          "tablet",
+          "phone"
+        ],
+        "packageUrl": "http://10.0.196.186:8000/files/entry-default-signed.hap",
+        "packageHash": "fe938c3bc5c4636e4d271803fa55789392447130ee9b6e6c276bf994d7437945"
+      }
+    ]
+  }
+}
